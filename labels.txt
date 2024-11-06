@@ -1,0 +1,6 @@
+0 Cardboard
+1 Glass
+2 Class 3
+3 Class 4
+4 Plastic
+5 Class 6
